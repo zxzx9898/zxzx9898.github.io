@@ -2,5 +2,5 @@
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/username/username.github.io.git
-  branch: master
+  repo: https://github.com/zxzx9898/zxzx9898.github.io.git
+  branch: main
